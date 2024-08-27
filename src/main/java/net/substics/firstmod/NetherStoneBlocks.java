@@ -1,8 +1,6 @@
 package net.substics.firstmod;
 
 import net.fabricmc.api.ModInitializer;
-
-import net.minecraft.client.render.DimensionEffects;
 import net.substics.firstmod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -19,9 +19,8 @@ public class ModItems {
     public static void registerModItems() {
         NetherStoneBlocks.LOGGER.info("Registering Mod Items For " + NetherStoneBlocks.MOD_ID);
 
-
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
-           entries.add(NETHERRACK_BRICK);
+            entries.add(NETHERRACK_BRICK);
         });
     }
 }

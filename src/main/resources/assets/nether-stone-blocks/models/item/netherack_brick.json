@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "NetherStoneBlocks:item/netherrack_brick"
+    "layer0": "nether-stone-blocks:item/netherrack_brick"
   }
 }
